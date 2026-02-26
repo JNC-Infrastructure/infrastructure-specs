@@ -19,4 +19,4 @@ This architecture is designed to meet the **Digital Operational Resilience Act (
 * **Incident Reporting:** Real-time telemetry monitoring via hardware-level probes.
 * **Digital Testing:** Monthly stress-testing of unencapsulated paths to ensure throughput consistency.
 
-[Download Institutional Framework (PDF)]([https://github.com/JNC-Infrastructure/infrastructure-specs/blob/fda9afc22266a362ec001e94d33ff0862cfd4a7a/JNC_Global_Sovereign_Infrastructure_2026.pdf])
+[Download Institutional Framework ([PDF](https://github.com/JNC-Infrastructure/infrastructure-specs/blob/fda9afc22266a362ec001e94d33ff0862cfd4a7a/JNC_Global_Sovereign_Infrastructure_2026.pdf)
