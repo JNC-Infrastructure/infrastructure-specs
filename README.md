@@ -18,3 +18,5 @@ This architecture is designed to meet the **Digital Operational Resilience Act (
 * **ICT Risk Management:** Redundant carrier paths (Multi-homed BGP) to prevent single-point-of-failure in egress.
 * **Incident Reporting:** Real-time telemetry monitoring via hardware-level probes.
 * **Digital Testing:** Monthly stress-testing of unencapsulated paths to ensure throughput consistency.
+
+[Download Institutional Framework (PDF)](link-to-your-pdf-file)
