@@ -15,7 +15,7 @@ Through **Hardware-Level Isolation** and **Deterministic Pathing**, we provide t
 ## Technical Framework & Regional PoC
 The JNC-FL-2026 rollout utilizes a "Sovereign Layer" architecture, ensuring that data utility kernels remain unencapsulated and isolated from public-facing egress.
 
-![Architectural Overview.pdf](https://github.com/JNC-Infrastructure/infrastructure-specs/blob/01db6f506f0afdbb87e89deaabd985b44d2499e1/Architectural_Overview.pdf)
+[Architectural Overview.pdf](https://github.com/JNC-Infrastructure/infrastructure-specs/blob/01db6f506f0afdbb87e89deaabd985b44d2499e1/Architectural_Overview.pdf)
 
 ### Core Specifications:
 * **Egress Integrity:** Direct carrier pinning to **AS7018 (AT&T)** and **AS701 (Verizon Business)**.
@@ -27,7 +27,7 @@ The JNC-FL-2026 rollout utilizes a "Sovereign Layer" architecture, ensuring that
 ## Compliance & Audit Status
 JNC infrastructure is engineered to exceed the **Digital Operational Resilience Act (DORA)** standards for financial entities.
 
-![JNC Compliance Certificate](image_51c189.jpg)
+[JNC Compliance Certificate](https://github.com/JNC-Infrastructure/infrastructure-specs/blob/54bf718c0e99e0a286193dc6d1d47a9938faa528/_Compliance%20Certificate.pdf)
 
 * **Pillar 1:** ICT Risk Management via physical hardware isolation.
 * **Pillar 3:** Third-party oversight through real-time telemetry and BGP probing.
