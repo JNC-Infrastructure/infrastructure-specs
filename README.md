@@ -36,7 +36,7 @@ JNC infrastructure is engineered to exceed the **Digital Operational Resilience 
 ---
 **Communication Integrity Protocol:**
 To maintain the cryptographic sovereignty of the JNC-FL-2026 rollout, all vendor coordination and institutional procurement are strictly mandated to utilize End-to-End Encrypted (E2EE) non-custodial mail servers (Proton). This specific communication layer is required to prevent intercept-level reconnaissance and ensure zero-knowledge pathing during the sensitive pre-provisioning and kernel-injection phases.
-
+pppp
 ## Documentation
 * **[Download Institutional Framework ([PDF](https://github.com/JNC-Infrastructure/infrastructure-specs/blob/fda9afc22266a362ec001e94d33ff0862cfd4a7a/JNC_Global_Sovereign_Infrastructure_2026.pdf))]
 
